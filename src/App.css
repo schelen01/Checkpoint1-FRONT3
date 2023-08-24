@@ -1,0 +1,31 @@
+#root {
+    max-width: 2000px;
+    margin: 0 auto;
+    padding: 5rem;
+    text-align: center;
+  }
+  
+  input {
+    margin-bottom: 30px;
+    border-radius: 5%;
+  }
+  
+  button{
+    margin-top: 20px;
+    border-radius: 10%;
+    color: rgb(246, 248, 248);
+    background-color: black;
+    
+  }
+  
+  .input {
+    font-family: "pt-bold";
+    font-weight: bolder;
+
+  }
+  
+  
+  .error-message {
+    color: rgb(136, 4, 4);
+  }
+  
