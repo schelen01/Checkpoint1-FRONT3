@@ -5,4 +5,4 @@ Primeiro Entregável da matéria de Front 3:
 -Props
 -FORMS
 
-<img src="/assets/img/VISUAL.jpg">
+<img src="/assets/VISUAL.jpg">
