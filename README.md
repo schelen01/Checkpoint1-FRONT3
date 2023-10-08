@@ -5,4 +5,5 @@ Primeiro Entregável da matéria de Front 3:
 -Props
 -FORMS
 
-<img src="/assets/VISUAL.jpg">
+ <img width="600" src='./checkpoint1-FRONT3/assets/VISUAL.jpg'>
+
